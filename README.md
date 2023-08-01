@@ -1,4 +1,4 @@
-https://aaqibispostingwithphp.000webhostapp.com/Aaqib_task1.php
+https://aaqibispostingwithphp.000webhostapp.com
 
 Blog-posting-with-php is a blogging website created with php and mysql. This is a simple website with the following functionalities:
 1. User can login/signup
